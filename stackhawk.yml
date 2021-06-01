@@ -1,0 +1,4 @@
+app:
+  applicationId: 87169218-046f-4f68-a90b-e24e37d43a77
+  env: Pre-Production
+  host: http://localhost:3000
